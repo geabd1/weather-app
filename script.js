@@ -1,5 +1,5 @@
 
-const api = 'c8b8d78a697d9188705aeb21261f887e'; //OpenWeatherApp api key to access weather info
+const api = ''; //OpenWeatherApp api key to access weather info
 
 
 const iconImg = document.getElementById('weather-icon');
